@@ -59,51 +59,9 @@ python main.py
 
 > Make sure your virtual environment is activated if needed.
 
-## 🌐 Push to GitHub (Command Line Instructions)
-
-1. Open Command Prompt and navigate to your project:
-
-```bash
-cd C:\Users\pc\PycharmProjects\Ecommerce_Challenge
-```
-
-2. Initialize a git repository (if not already done):
-
-```bash
-git init
-```
-
-3. Add your remote GitHub repository (replace `USERNAME` and `REPO_NAME`):
-
-```bash
-git remote add origin https://github.com/USERNAME/REPO_NAME.git
-```
-
-4. Stage all files for commit:
-
-```bash
-git add .
-```
-
-5. Commit your changes:
-
-```bash
-git commit -m "Initial commit: E-commerce checkout system"
-```
-
-6. Push the project to GitHub:
-
-```bash
-git push -u origin master
-```
-
-> 🔐 If you're asked to authenticate, use your GitHub username and [personal access token](https://github.com/settings/tokens) instead of your password.
-
----
 
 ## 👨‍💻 Author
 
 Ahmed Salah  
-Built with ❤️ using Python and PyCharm
 
 ---
